@@ -1,2 +1,0 @@
-# SmallDebugginReactExercise
-Created with CodeSandbox
